@@ -11,7 +11,7 @@ body::before {
   height: 53rem;
   margin:  auto 4rem;
   z-index: -1;
-  background-image: "components/bg1";
+  background: url("C:\Users\Mitali\Desktop\Web Development\React Course\kasturi-roy-cZ8WFM_C574-unsplash (2).jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
